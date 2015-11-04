@@ -1,0 +1,28 @@
+------------------------- Transfiguration -----------------------------------
+
+** Type p to put previously deleted text after the cursor **
+
+We'll use the summoning charms we learned about in the last lesson and new
+putting charm to fix this excerpt from Moste Potente Potions.
+
+&& Brewing Potion Polyjuice &&
+2) Peel the boomslang skin
+1) Crush the horn of a bicorn
+3) Mix with lacewing flies
+...
+
+
+** type r{char} to replace the character under the cursor with the character {char}**
+
+-- line with bad letters
+
+
+** transfigure until the end of the word using ce **
+
+
+-- Scabbers
+
+
+------- c is another operator that takes a motion --------------------------
+
+** open the next file - divination - :e 4-time-turners **

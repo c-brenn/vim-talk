@@ -1,0 +1,37 @@
+-------------------------- Summoning Charms -------------------------------
+
+** Press <ESC> to make sure you are in normal mode **
+
+We can make words disappear using dw.
+We'll see later that we have summoned them and stored them in a safe place.
+
+-- Pesky pixies porridge put extra womble words in this pumpkin sentence
+
+We can delete to the end of the line using d$
+
+-- Fiddlesome fairies finished this line twice. finished this line twice.
+
+
+                    ---- Counts ----
+
+** typing a number before a motion repeats it that many times **
+
+2w - move forward 2 words
+3b - move backward 3 words
+4e - move to the end of the fourth word forward
+0  - move to the start of the line
+$  - move to the end of the line
+
+-- Use the spells above to apparate around in this line of text
+
+** Combine counts with operators that take motions **
+
+d5w - delete the next 5 words
+
+** Delete a line of text with dd **
+
+-- Destroy this line pretty please
+
+----------------------------------------------------------------------
+
+** open the next file - transifuration - :e 3-transfiguration **

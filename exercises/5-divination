@@ -1,0 +1,32 @@
+------------------------------ Divination & Apparation -------------------------------
+
+We will know learn how to search even the foggiest of files for text of interest,
+and how to transform it at our leisure.
+
+
+* use gg to apparate to the top of the file *
+* use G to apparate to the bottom of the file *
+
+G can be combined with a count to apparate to the specified line
+
+* We can search and apparate (forwards) to characters of interest using f and t **
+
+sdfghjklfghjklfghjk
+
+* search for text using / followed by the search term *
+* Use n to travel by floo powder to the next matching term *
+
+-- Diagon Alley
+-- Knockturn Alley
+-- Diagon Alley
+
+( we can turn off the highlighting for the current matches with :noh )
+
+* Type % to apparate to a matching (, [ or { *
+
+-- (parenthesised { pumpkins [ grow larger ] })
+
+-----------------------------------------------------------------------------------
+
+** open the next file - daily-prophet - :e 6-daily-prophet **
+

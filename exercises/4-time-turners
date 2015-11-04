@@ -1,0 +1,26 @@
+------------------------- Time Turners and Counter Spells -----------------------------------
+
+Any witch or wizard worth there salt knows not only how to change text with minimal spell-slinging
+but also how to undo spells that have been cast, and repeat them with ease.
+
+** Type u to counter the last spell that changed the document **
+
+Buckbeak was freed.
+
+-- The anatomy of changes --
+
+-> A change is made up of all the edits you made while you were last in insert mode.
+-> Spells cast from normal mode that edit text enter insert mode behind the scenes.
+
+** Type . to use your time turner to replay the last change you made **
+
+...
+Susan Bones
+Ronald Weasley
+Draco Malfoy
+Harry Potter
+...
+
+---------------------------------------------------------------------------------------------
+
+** open the next file - divination - :e 5-divination **
