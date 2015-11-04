@@ -12,20 +12,21 @@ You can move around with these keys (qwerty layout)
 
 Press <ESC> to make sure you are in normal mode.
 
-** You can delete the character under the cursor by pressing x **
-
--- standdard boook of speells
-
-
 ** Use i to enter insert mode and insert text **
 
--- standard bo of
+-- standard  of spells
 -- standard book of spells
+
+** Use <ESC> to get back to normal mode **
 
 ** Use A to apparate to the end of the line and enter insert mode **
 
 -- standard book of
 -- standard book of spells
+
+** Use o to apparate to a new line below the current line and enter insert mode **
+
+-- Moste Potente Potions
 
 -----------------------------------------------------------------
 

@@ -6,23 +6,28 @@ We'll use the summoning charms we learned about in the last lesson and new
 putting charm to fix this excerpt from Moste Potente Potions.
 
 && Brewing Potion Polyjuice &&
-2) Peel the boomslang skin
-1) Crush the horn of a bicorn
-3) Mix with lacewing flies
+2) Peel and add the boomslang skin
+1) Crush the horn of a bicorn and stir in clockwise (13 stirs)
+3) Mix in the lacewing flies
 ...
+
+** we can summon text without deleting it using y **
+
+-- Use the y to summon this line and copy it below
 
 
 ** type r{char} to replace the character under the cursor with the character {char}**
 
--- line with bad letters
+-- Album Dubbledote
 
+** We can use c{motion} to CHANGE text (delete it and enter insert mode) **
 
 ** transfigure until the end of the word using ce **
 
-
 -- Scabbers
 
+-- Albus Percival Wulfric Brian Dumbledore
 
-------- c is another operator that takes a motion --------------------------
+--------------------------------------------------------------------------------------------
 
 ** open the next file - divination - :e 4-time-turners **

@@ -7,13 +7,18 @@ but also how to undo spells that have been cast, and repeat them with ease.
 
 Buckbeak was freed.
 
+** We can recast the last countered spell using ctrl+r **
+
 -- The anatomy of changes --
 
 -> A change is made up of all the edits you made while you were last in insert mode.
 -> Spells cast from normal mode that edit text enter insert mode behind the scenes.
 
+-- The Flobberworm is a ten-inch, toothless brown worm which eats vegetation, especially lettuce and cabbage.
+
 ** Type . to use your time turner to replay the last change you made **
 
+&& Pupils to be sorted into houses &&
 ...
 Susan Bones
 Ronald Weasley

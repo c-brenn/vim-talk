@@ -1,18 +1,19 @@
 We're going to combine everything we've learned so far in order to change this daily prophet article.
 
-Cornelius Fudge fears the use of Lord Voldemort's name, let's fix that.
-
 The task:
 
-1) Search for all occurences of Voldemort's pseudonyms
-2) Replace each one with Lord Voldemort
+1) Change the title from TITLE to You-Know-Who Returns
+2) Search for all occurences of Voldemort's pseudonyms
+3) Replace each one with Lord Voldemort
+4) Change the quote in paragraph 2
+5) Swap the second and third paragraphs
 
 Solutions:
 ...
 
 ------------------------------------------------------------------------------------------
 
--- You-Know-Who Returns --
+{ TITLE }
 In a brief statement Friday night, Minister for Magic Cornelius Fudge
 confirmed that You-Know-Who has returned to this country and is active once more.
 "It is with great regret that I must confirm that the wizard styling himself
@@ -21,10 +22,9 @@ flustered as he addressed reporters.
 "We believe that the dementors are currently taking direction from You-Know-Who.
 We urge the magical population to remain vigilant."
 
-The Minister's statement was met with dismay and alarm from the wizarding
-community, which as recently as last Wednesday was receiving Ministry
-assurances that there was "no truth whatsoever in these persistent
-rumours that You-Know-Who is operating amongst us once more."
+The Minister's statement was met with dismay and alarm from the wizarding community, which
+as recently as last Wednesday was receiving Ministry assurances that there was
+"no truth whatsoever in these rumours that You-Know-Who is operating amongst again."
 
 Details of the events that led to the Ministry turnaround are still hazy,
 though it is believed that You-Know-Who and a select band of followers (known as Death Eaters)
@@ -37,3 +37,5 @@ He has insisted for a year that You-Know-Who was not dead,
 as was widely hoped and believed, but recruiting followers once
 more for a fresh attempt to seize power.
 -------------------------------------------------------------------------------------------
+
+* open the next exercise - text-objects - :e 7-text-objects *

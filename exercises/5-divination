@@ -3,7 +3,6 @@
 We will know learn how to search even the foggiest of files for text of interest,
 and how to transform it at our leisure.
 
-
 * use gg to apparate to the top of the file *
 * use G to apparate to the bottom of the file *
 
@@ -11,7 +10,8 @@ G can be combined with a count to apparate to the specified line
 
 * We can search and apparate (forwards) to characters of interest using f and t **
 
-sdfghjklfghjklfghjk
+-- Many witches and wizards, talented though they are in the area of loud bangs and smells and
+   sudden disappearings, are yet unable to penetrate the veiled mysteries of the future.
 
 * search for text using / followed by the search term *
 * Use n to travel by floo powder to the next matching term *

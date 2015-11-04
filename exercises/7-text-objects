@@ -1,0 +1,32 @@
+--------------------------- Text Objects -----------------------------
+
+While motions *move* the cursor, text objects *describe regions of text*
+
+* a describes the text object and surrounding whitespace/delimiting characters *
+* i describes only the text object
+
+-- use v{text-object} and see how we can select text objects --
+
+We can describe a word. * aw iw *.
+We can describe a sentence. * as is*
+We can describe a paragraph. * ap ip*
+
+* a{quote} i{quote} *
+We can describe 'text in strings' "with any quotation" `really any quotation` 
+
+* a{bracket} i{bracket} *
+We can describe (parenthesised { braced [ bracketed text ] })
+
+* at it *
+<div>We can describe tags too</div>
+
+----------------------------------------------------------------------
+
+All of the operators that use motions also use text objects.
+The main differece between a motion and a text object is that
+motions operate from the cursor position onwards, whereas text
+objects use the *entire* text object.
+
+---------------------------------------------------------------------
+
+* open the next exercise - potions-class - :e potions-class

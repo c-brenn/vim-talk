@@ -1,15 +1,23 @@
 -------------------------- Summoning Charms -------------------------------
-
 ** Press <ESC> to make sure you are in normal mode **
 
-We can make words disappear using dw.
-We'll see later that we have summoned them and stored them in a safe place.
+** use v to enter visual mode, use d to delete the selection **
+
+-- select and delete the snagglehorn
+
+** You can delete the character under the cursor by pressing x **
+
+-- standdard boook of speells
+
+** We can make words disappear using dw **
 
 -- Pesky pixies porridge put extra womble words in this pumpkin sentence
 
 We can delete to the end of the line using d$
 
 -- Fiddlesome fairies finished this line twice. finished this line twice.
+
+** a brief digression on operators &  motions **
 
 
                     ---- Counts ----
@@ -18,7 +26,7 @@ We can delete to the end of the line using d$
 
 2w - move forward 2 words
 3b - move backward 3 words
-4e - move to the end of the fourth word forward
+4e - move to the end of the fourth word (forward)
 0  - move to the start of the line
 $  - move to the end of the line
 
