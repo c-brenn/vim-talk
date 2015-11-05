@@ -35,7 +35,7 @@ set scrolloff=10
 set sidescrolloff=10
 
 " Showing invisible characters
-set listchars=tab:›\ ,eol:¬,trail:⋅ " textmate
+set listchars=tab:›\ ,trail:⋅ " textmate
 set list
 
 set wildmenu
